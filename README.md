@@ -29,6 +29,8 @@ The optional profiles include:
 * [re-com](https://github.com/Day8/re-com) (`+re-com`)
 * [secretary](https://github.com/gf3/secretary) (`+routes`)
 * [re-frisk](https://github.com/flexsurfer/re-frisk) (`+re-frisk`)
+* [sassc](https://github.com/apribase/lein-sassc) (`+sass`) Note this requires the `sassc` command line program.
+  See Linux build instructions [here](https://github.com/sass/libsass/blob/master/docs/build-with-autotools.md).
 
 To add a profile to the base template, just append the profile name (let's use `+re-com` as an example):
 
